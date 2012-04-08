@@ -12,4 +12,6 @@ del vmaps.rar &
 del xampp.rar &
 del ..\installer.bat &
 del ..\start.bat &
-copy start.bat ..
+copy start.bat .. &
+cd .. &
+start start.bat
