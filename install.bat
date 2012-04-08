@@ -6,4 +6,8 @@ rar.exe x dbc.rar &
 rar.exe x maps.rar &
 rar.exe x vmaps.rar &
 rar.exe x xampp.rar &
+del dbc.rar &
+del maps.rar &
+del vmaps.rar &
+del xampp.rar &
 pause
