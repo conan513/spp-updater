@@ -10,4 +10,6 @@ del dbc.rar &
 del maps.rar &
 del vmaps.rar &
 del xampp.rar &
-pause
+del ..\installer.bat &
+del ..\start.bat &
+copy start.bat ..
