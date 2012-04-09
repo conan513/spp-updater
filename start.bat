@@ -1,9 +1,8 @@
 @echo off
-:quick
-rem Ha ezzel indítod, a szerver autómatikusan frissülni fog
-rem és minden általad módosított config vissza áll alapértelmezettre.
-rem  &
-rem Ha nem szeretnéd most frissíteni, használd a "start(no update).bat" fájlt.
+echo Ha ezzel indítod, a szerver autómatikusan frissülni fog
+echo és minden általad módosított config vissza áll alapértelmezettre.
+echo  &
+echo Ha nem szeretnéd most frissíteni, használd a "start(no update).bat" fájlt.
 pause &
 taskkill /IM mysql.exe /F &
 taskkill /IM mysqld.exe /F &
