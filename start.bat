@@ -1,8 +1,8 @@
 @echo off
-echo Ha ezzel indítod, a szerver autómatikusan frissülni fog
-echo és minden általad módosított config vissza áll alapértelmezettre.
+echo Ha ezzel inditod, a szerver automatikusan frissulni fog
+echo es minden altalad modositott config vissza all alapertelmezettre.
 echo  &
-echo Ha nem szeretnéd most frissíteni, használd a "start(no update).bat" fájlt.
+echo Ha nem szeretned most frissiteni, hasznald a "start(no update).bat" fajlt.
 pause &
 taskkill /IM mysql.exe /F &
 taskkill /IM mysqld.exe /F &
