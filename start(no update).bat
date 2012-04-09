@@ -1,3 +1,4 @@
+@echo off
 taskkill /IM mysql.exe /F &
 taskkill /IM mysqld.exe /F &
 taskkill /IM spp-world.exe /F &

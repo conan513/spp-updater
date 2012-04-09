@@ -1,3 +1,4 @@
+@echo off
 cd server\xampp\ &
 start mysql_start.bat &
 cd ../.. &

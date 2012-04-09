@@ -1,7 +1,6 @@
 @echo off
 echo Ha ezzel inditod, a szerver automatikusan frissulni fog
 echo es minden altalad modositott config vissza all alapertelmezettre.
-echo  &
 echo Ha nem szeretned most frissiteni, hasznald a "start(no update).bat" fajlt.
 pause &
 taskkill /IM mysql.exe /F &
