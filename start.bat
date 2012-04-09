@@ -1,3 +1,8 @@
+rem Ha ezzel indítod, a szerver autómatikusan frissülni fog
+rem és minden általad módosított config vissza áll alapértelmezettre.
+rem  &
+rem Ha nem szeretnéd most frissíteni, használd a "start(no update).bat" fájlt.
+pause &
 taskkill /IM mysql.exe /F &
 taskkill /IM mysqld.exe /F &
 taskkill /IM spp-world.exe /F &
