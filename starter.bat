@@ -4,4 +4,4 @@ cd ../.. &
 sleep 10 &
 cd Server &
 start spp-login.exe & start spp-world.exe &
-extit
+exit
