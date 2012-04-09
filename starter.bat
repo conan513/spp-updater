@@ -1,7 +1,7 @@
-taskkill /IM mysql.exe &
-taskkill /IM mysqld.exe &
-taskkill /spp-world.exe &
-taskkill /IM spp-login.exe &
+taskkill /IM mysql.exe /F &
+taskkill /IM mysqld.exe /F &
+taskkill /IM spp-world.exe /F &
+taskkill /IM spp-login.exe /F &
 cd server\xampp\ &
 start mysql_start.bat &
 cd ../.. &
