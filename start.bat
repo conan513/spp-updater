@@ -1,3 +1,5 @@
+@echo off
+:quick
 rem Ha ezzel indítod, a szerver autómatikusan frissülni fog
 rem és minden általad módosított config vissza áll alapértelmezettre.
 rem  &
