@@ -20,4 +20,6 @@ sleep 10 &
 cd updates\u2-lan &
 unicode\Notepad++.exe realmlist.sql
 ..\..\mysql -u root -p123456 realmd < realmlist.sql
+cd ..\.. &
+sleep 5
 taskkill /IM mysqld.exe /F &
