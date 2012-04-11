@@ -1,4 +1,3 @@
-@echo off
 taskkill /IM mysql.exe /F &
 taskkill /IM mysqld.exe /F &
 taskkill /IM spp-world.exe /F &
@@ -8,5 +7,4 @@ cd spp-updater &
 copy updates\after\start_up1.bat ..\start.bat &
 copy IP-config.bat .. &
 copy "start(no update).bat" .. &
-copy updates\after\update.bat ..\update.bat &
-start starter.bat
+copy updates\after\update.bat ..\update.bat
