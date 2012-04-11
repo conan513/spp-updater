@@ -1,3 +1,3 @@
 @echo off
-cd spp-updates\updates\u2-lan
+cd spp-updater\updates\u2-lan\ &
 import.bat
