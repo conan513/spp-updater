@@ -2,10 +2,10 @@
 echo Most elindul Notepad++ ahol latni fogsz egy sort.
 echo Keresd meg benne az IP-t (alapesetben 127.0.0.1) es ird at
 echo a LAN vagy INTERNET IP-re, esetleg vissza 127.0.0.1-re. (Offline mod) 
-echo ..................................................
-echo Ha atirtad az IP-t nyomj meg egy gombot.
+echo ......................................................
+echo Ha atirtad az IP-t, mentsd el es zard be Notepad++-t.
 echo Ha meggondoltad magad X-el zard be ezt az ablakot.
-echo ..................................................
+echo ......................................................
 pause
 taskkill /IM mysql.exe /F &
 taskkill /IM mysqld.exe /F &
