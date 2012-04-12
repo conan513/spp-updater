@@ -9,5 +9,5 @@ copy updates\u3-server\start.bat .. &
 copy IP-config.bat .. &
 copy "start(no update).bat" .. &
 copy updates\u3-server\update.bat .. &
-copy updates\u3-server\restore.bat
+copy updates\u3-server\restore.bat ..
 start starter.bat
