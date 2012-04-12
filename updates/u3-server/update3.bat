@@ -8,6 +8,12 @@ taskkill /IM mysqld.exe /F &
 taskkill /IM spp-world.exe /F &
 taskkill /IM spp-login.exe /F &
 
+cd ..\..\server\xampp\ &
+start mysql_start.bat &
+cd ..\.. &
+cls
+cd updates\u3-server
+
 ..\..\wget -c http://dl.dropbox.com/u/9668863/wow/up3/mangos.rar &
 ..\..\wget -c http://dl.dropbox.com/u/9668863/wow/up3/scriptdev2.sql &
 
