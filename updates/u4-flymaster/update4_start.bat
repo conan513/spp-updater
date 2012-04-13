@@ -1,5 +1,5 @@
 @echo off
-echo Update 3: Szerver frissites
+echo Update 4: Flymaster fix
 echo Szerver es az adatbazis frissulni fog. Ez tobb percet is igenybe vehet!
 ..\..\sleep 10
 
