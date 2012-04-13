@@ -1,0 +1,3 @@
+DROP DATABASE mangos;
+
+DROP DATABASE scriptdev2;

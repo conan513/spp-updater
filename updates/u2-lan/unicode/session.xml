@@ -1,7 +1,9 @@
 <NotepadPlus>
     <Session activeView="0">
-        <mainView activeIndex="0">
+        <mainView activeIndex="2">
             <File firstVisibleLine="0" xOffset="0" scrollWidth="536" startPos="43" endPos="43" selMode="0" lang="SQL" encoding="-1" filename="C:\Source\wow\spp-updater\updates\u2-lan\realmlist.sql" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1040" startPos="516" endPos="516" selMode="0" lang="SQL" encoding="-1" filename="C:\Source\wow\TrinityCore\sql\updates\world\2012_03_24_01_world_creature_loot_template.sql" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="976" startPos="0" endPos="0" selMode="0" lang="SQL" encoding="-1" filename="C:\Source\wow\SingleCore\Full_DB\sql\mr00002_11947_01_mangos_dbscripts.sql" />
         </mainView>
         <subView activeIndex="0" />
     </Session>
