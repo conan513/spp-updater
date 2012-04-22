@@ -1,5 +1,5 @@
 @echo off
-echo Update 5: Jarmuvek fix & vinyo terheles teszt fix
+echo Update 5: Jarmuvek fix es vinyo terheles teszt fix
 echo Szerver es az adatbazis frissulni fog. Ez tobb percet is igenybe vehet!
 ..\..\sleep 10
 
