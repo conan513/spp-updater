@@ -25,6 +25,7 @@ del mangos.rar &
 ..\..\mysql -u root -p123456 mangos < mangos.sql
 ..\..\mysql -u root -p123456 scriptdev2 < scriptdev2.sql
 ..\..\mysql -u root -p123456 characters < mr01918_characters_characters.sql
+..\..\mysql -u root -p123456 characters < auction.sql
 
 del mangos.sql
 del scriptdev2.sql
