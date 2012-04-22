@@ -10,3 +10,5 @@ copy IP-config.bat .. &
 copy "start(no update).bat" .. &
 copy updates\u4-flymaster\update.bat .. &
 copy updates\u4-flymaster\restore.bat ..
+cd updates\u5
+start update5.bat
