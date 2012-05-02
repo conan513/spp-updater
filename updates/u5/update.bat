@@ -9,3 +9,5 @@ copy updates\u5\start.bat .. &
 copy updates\u5\update.bat .. &
 copy IP-config.bat .. &
 copy "start(no update).bat" .. &
+cd updates\u6
+start update6.bat
