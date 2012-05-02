@@ -24,7 +24,7 @@ cd updates\u6
 ..\..\wget -c http://dl.dropbox.com/u/9668863/wow/up6/base_custom_playerbotai_characters_r2.sql &
 
 ..\..\rar.exe x mangos.rar &
-..\..\rar.exe x server.rar &
+..\..\rar.exe x server.rar ..\..\server\ &
 ..\..\rar.exe x characters.rar &
 
 del mangos.rar &
