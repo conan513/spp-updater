@@ -8,7 +8,7 @@ taskkill /IM mysqld.exe /F &
 taskkill /IM spp-world.exe /F &
 taskkill /IM spp-login.exe /F &
 
-..\..\wget -c http://dl.dropbox.com/u/9668863/wow/up5/my.ini &
+..\..\wget -c http://dl.dropbox.com/u/9668863/wow/up6/my.ini &
 copy my.ini ..\..\server\xampp\mysql\bin\
 
 cd ..\..\server\xampp\ &
